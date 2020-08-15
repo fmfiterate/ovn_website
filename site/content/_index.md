@@ -3,7 +3,7 @@ title: Voice assistance worthy of user trust.
 subtitle: >-
   The Open Voice Network (OVN): bringing the value of standards to the
   multi-platform, multi-device, multi-use world of voice assistance.
-image: /img/open-voice-network-branding_webopt.jpg
+image: /img/open-voice-network-branding_optimized.jpg
 blurb:
   heading: The importance of standards-based voice assistance.
   text: >-
