@@ -19,7 +19,7 @@ communities:
       For conversational AI developers. Primary responsibility: advising the
       OVN Technical Committee on the issues, opportunities, and requirements for proposed
       conversational AI technical standards.
-   - heading: Designer & Strategist Community.
+  - heading: Designer & Strategist Community.
     imageUrl: /img/1x1-white-pixel.png
     text: >-
       For conversational AI designers, linguists and strategists.
@@ -39,7 +39,7 @@ communities:
       For educators using and researching the use of conversational AI for
       classroom and remote learning. Primary responsibility: advising the entirety of the Open Voice
       Network as to the why, the what, the how, and the legal requirements and ethical use of
-      conversational AI for education.   
+      conversational AI for education.
   - heading: Health & Life Sciences Community
     imageUrl: /img/1x1-white-pixel.png
     text: >-
@@ -47,7 +47,7 @@ communities:
       conversational AI in patient care and services delivery. Primary responsibility: advising the
       entirety of the Open Voice Network as to the why, the what, the how, and the legal requirements
       and ethical use of conversational AI in health and life sciences.
-   - heading: Commerce Industries Community
+  - heading: Commerce Industries Community
     imageUrl: /img/1x1-white-pixel.png
     text: >-
       For those using and researching the use of
@@ -66,6 +66,6 @@ communities:
     text: >-
       A collaborative Community created in partnership with the Voice
       Committee of the China Netcasting Services Association. Dedicated to the sharing of
-      information and innovation regarding conversational AI standards development and
-      conversational AI value propositions, especially those with a potential global reach.                     
+      information and innovation regarding conversational AI standards development and 
+      conversational AI value propositions, especially those with a potential global reach.                           
 ---
