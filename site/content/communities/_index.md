@@ -11,7 +11,7 @@ communities:
       your time, a willingness to share your best thinking in a collaborative, open environment, and a
       commitment to a conversational AI future that is multi-platform, multi-assistant, multi-modal,
       multi-use, multi-device, user-centric, and standards-based.
-  - heading: The Open Voice Network Communities
+  - heading: The Open Voice Network Communities:
     imageUrl: /img/1x1-white-pixel.png
   - heading: Developer Community.
     imageUrl: /img/1x1-white-pixel.png
@@ -61,11 +61,24 @@ communities:
       responsibility: to ensure that the entirety of The Open Voice Network hears clearly the voice of
       European conversational AI, and specifically on topics of regulation, requirements, inclusivity,
       value propositions, and ethical use.
-  - heading: China Community.
+   - heading:
     imageUrl: /img/1x1-white-pixel.png
     text: >-
-      A collaborative Community created in partnership with the Voice
-      Committee of the China Netcasting Services Association. Dedicated to the sharing of
-      information and innovation regarding conversational AI standards development and 
-      conversational AI value propositions, especially those with a potential global reach.                           
+      Our Community participants come from all over the world -- Central and Western Europe, North
+      America, South America, Australia, India, and China. Video-based conference calls are held
+      regularly; asynchronous conversations flow on our Slack Channels, and a growing share drive
+      holds minutes, meeting recordings, and documents.
+   - heading:
+    imageUrl: /img/1x1-white-pixel.png
+    text: >-
+      OVN Communities advise our standing committees on such critical topics as architecture,
+      development tools, enterprise use cases, ethical use and local regulations and issues. They are
+      a sounding board and a review body. The OVN Community members are also the experts who
+      will take key roles on OVN Work and Project Groups, drafting the proposed standards and
+      ethical use guidelines that will enable the future of conversational AI.
+   - heading:
+    imageUrl: /img/1x1-white-pixel.png
+    text: >-
+      Each OVN Community is moderated by one or more Community members, responsible for
+      Community development, meeting planning, and coordination with other OVN activities.                                       
 ---
