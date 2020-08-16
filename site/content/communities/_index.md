@@ -7,29 +7,65 @@ communities:
     text: >-
       Open Voice Network Communities are open to everyone in the conversational AI community – 
       developers, designers, strategists, linguists, researchers, marketers, and students.
-      
       There’s no charge or membership fee to participate. All that’s required is a willingness to give of
       your time, a willingness to share your best thinking in a collaborative, open environment, and a
       commitment to a conversational AI future that is multi-platform, multi-assistant, multi-modal,
       multi-use, multi-device, user-centric, and standards-based.
-  - heading: Mission
+  - heading: The Open Voice Network Communities
+    imageUrl: /img/1x1-white-pixel.png
+  - heading: Developer Community.
     imageUrl: /img/1x1-white-pixel.png
     text: >-
-      The Open Voice Network will achieve its vision through the development and
-      proposal of standards to the global voice industry. We envision standards
-      that enable trust-worthy accessibility, identification and authentication,
-      data privacy, and interoperability.
-  - heading: Principles
-    imageUrl: /img/1x1-white-pixel.png
-    text: "The Open Voice Network is guided by four principles. It is:\n(1) user-centric, reflecting the interests of enterprises, media and marketers, designers and developers, as well as platforms;  \n(2)\_pragmatic, based in today’s realities and tomorrow’s feasibilities; \n(3) committed to open, objective, and ethical decision-making, where no one entity unfairly benefits;  \n(4) focused on results."
-  - heading: History and Affiliations
+      For conversational AI developers. Primary responsibility: advising the
+      OVN Technical Committee on the issues, opportunities, and requirements for proposed
+      conversational AI technical standards.
+   - heading: Designer & Strategist Community.
     imageUrl: /img/1x1-white-pixel.png
     text: >-
-      The Open Voice Network emerged from 2016-2018 research on the potential of
-      AI-enabled voice assistance conducted by the Massachusetts Institute of
-      Technology (MIT) Auto-ID Laboratory, Capgemini Consulting, and the Intel
-      Corporation.   In late 2018, seed funding was provided to initiate
-      research into voice assistance technologies and potential standards, and
-      to develop The Open Voice Network.
+      For conversational AI designers, linguists and strategists.
+      Primary responsibility: advising the OVN Technical and Outreach Committees on enterprise
+      use cases – the value propositions (and related requirements and dependencies) of
+      conversational AI.
+  - heading: Ethical Use Community.
+    imageUrl: /img/1x1-white-pixel.png
+    text: >-
+      For all conversational AI practitioners, researchers, and enthusiasts
+      committed to a better future. Primary responsibility: advising the entirety of the Open Voice
+      Network on issues of inclusivity, consent, privacy, and many more; developing and proposing
+      voice-central ethical use frameworks and guidelines.
+  - heading: Education Community
+    imageUrl: /img/1x1-white-pixel.png
+    text: >-
+      For educators using and researching the use of conversational AI for
+      classroom and remote learning. Primary responsibility: advising the entirety of the Open Voice
+      Network as to the why, the what, the how, and the legal requirements and ethical use of
+      conversational AI for education.   
+  - heading: Health & Life Sciences Community
+    imageUrl: /img/1x1-white-pixel.png
+    text: >-
+      For those using and researching the use of
+      conversational AI in patient care and services delivery. Primary responsibility: advising the
+      entirety of the Open Voice Network as to the why, the what, the how, and the legal requirements
+      and ethical use of conversational AI in health and life sciences.
+   - heading: Commerce Industries Community
+    imageUrl: /img/1x1-white-pixel.png
+    text: >-
+      For those using and researching the use of
+      conversational AI in the retail and consumer products industries. Primary responsibility: advising
+      the entirety of the Open Voice Network as to the why, the what, the how, and the legal
+      requirements and ethical use of conversational AI in retail and consumer products.
+  - heading: Europe Community.
+    imageUrl: /img/1x1-white-pixel.png
+    text: >-
+      For European voice practitioners and industry associations. Primary
+      responsibility: to ensure that the entirety of The Open Voice Network hears clearly the voice of
+      European conversational AI, and specifically on topics of regulation, requirements, inclusivity,
+      value propositions, and ethical use.
+  - heading: China Community.
+    imageUrl: /img/1x1-white-pixel.png
+    text: >-
+      A collaborative Community created in partnership with the Voice
+      Committee of the China Netcasting Services Association. Dedicated to the sharing of
+      information and innovation regarding conversational AI standards development and
+      conversational AI value propositions, especially those with a potential global reach.                     
 ---
-
