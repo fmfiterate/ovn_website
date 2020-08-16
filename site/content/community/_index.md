@@ -10,7 +10,7 @@ There’s no charge or membership fee to participate. All that’s required is a
 your time, a willingness to share your best thinking in a collaborative, open environment, and a
 commitment to a conversational AI future that is multi-platform, multi-assistant, multi-modal,
 multi-use, multi-device, user-centric, and standards-based.  
-about:
+community:
   - heading: Vision
     imageUrl: /img/1x1-white-pixel.png
     text: >-
