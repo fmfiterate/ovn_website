@@ -70,7 +70,7 @@ communities:
       conversational AI value propositions, especially those with a potential global reach.
 full_image: /img/ovn-open-voice-network-blog-ai-voice-assistance_optimized.jpg     
 contact_us:
-  - heading: Contact Us
+- heading: Contact Us
     imageUrl: /img/1x1-white-pixel.png
     text: >-
       Reach out at hello@openvoicenetwork.org or via the form below.
