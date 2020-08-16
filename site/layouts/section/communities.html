@@ -2,16 +2,9 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
 
-<div class="mw7 center">
-  <div class="mw6 ph3 mb3">
-    <h3 class="f3 b lh-title mb2">{{ .Params.heading }}</h3>
-    <p>{{ .Params.description }}</p>
-  </div>
-</div>
-
 <div class="mw7 center ph3 pt4">
 
-  {{ range $index, $element := .Params.community }}
+  {{ range $index, $element := .Params.communities }}
     {{ if modBool $index 2 }}
       {{ partial "media-block" $element }}
     {{ else }}

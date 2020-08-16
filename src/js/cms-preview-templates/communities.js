@@ -18,7 +18,7 @@ const MediaBlock = ({heading, text, imageUrl, reverse}) => {
   </div>;
 };
 
-export default class CommunityPreview extends React.Component {
+export default class CommunitiesPreview extends React.Component {
   render() {
     const {entry, getAsset} = this.props;
     
@@ -29,14 +29,14 @@ export default class CommunityPreview extends React.Component {
       image = window.parent.location.protocol + "//" + window.parent.location.host + image;
     }
     
-    const entryCommunity = entry.getIn(["data", "community"]);
-    const community = entryCommunity? entryCommunity.toJS() : [];
+    const entryCommunities = entry.getIn(["data", "communities"]);
+    const communities = entryCommunities ? entryCommunities.toJS() : [];
     
     return <div>
       <Jumbotron image={image} title={entry.getIn(["data", "title"])} />
       <div className="bg-off-white pv4">
         <div className="mw7 center ph3 pt4">
-          {community.map(({text, heading, imageUrl}, i) =>
+          {communities.map(({text, heading, imageUrl}, i) =>
             <MediaBlock key={i} text={text} heading={heading} imageUrl={imageUrl} reverse={i % 2 === 0} />
           )}
         </div>
