@@ -39,7 +39,7 @@ main:
   image1:
     alt: Open Voice
     image: >-
-      /img/ovn-open-voice-network-ai-voice-commerce-retail-artificial-intelligence_optimized.jpg
+      /img/OVN-open-voice-network-artificial-intelligence-aivoice-global-standards_optimized.jpg
   image2:
     alt: Open Voice
     image: /img/ovn-open-voice-network-join-assistance_optimized.jpg
