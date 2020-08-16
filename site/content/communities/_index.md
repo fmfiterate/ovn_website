@@ -61,8 +61,15 @@ communities:
       responsibility: to ensure that the entirety of The Open Voice Network hears clearly the voice of
       European conversational AI, and specifically on topics of regulation, requirements, inclusivity,
       value propositions, and ethical use.
-  - heading:
+  - heading: China Community.
     imageUrl: /img/1x1-white-pixel.png
+    text: >-
+      A collaborative Community created in partnership with the Voice 
+      Committee of the China Netcasting Services Association. Dedicated to the sharing of
+      information and innovation regarding conversational AI standards development and
+      conversational AI value propositions, especially those with a potential global reach.
+  - heading:
+    imageUrl: /img/ovn-open-voice-network-blog-ai-voice-assistance_optimized.jpg
     text: >-
       Our Community participants come from all over the world -- Central and Western Europe, North
       America, South America, Australia, India, and China. Video-based conference calls are held
