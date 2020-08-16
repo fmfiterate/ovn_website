@@ -91,3 +91,4 @@ contact_us:
       Each OVN Community is moderated by one or more Community members, responsible for
       Community development, meeting planning, and coordination with other OVN activities.                                       
 ---
+Contact us at hello@openvoicenetwork.org or reach out via the form below.
