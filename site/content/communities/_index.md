@@ -69,7 +69,7 @@ communities:
       information and innovation regarding conversational AI standards development and
       conversational AI value propositions, especially those with a potential global reach.
   - heading:
-    imageUrl: /img/ovn-open-voice-network-blog-ai-voice-assistance_optimized.jpg
+    image: /img/ovn-open-voice-network-blog-ai-voice-assistance_optimized.jpg
     text: >-
       Our Community participants come from all over the world -- Central and Western Europe, North
       America, South America, Australia, India, and China. Video-based conference calls are held
