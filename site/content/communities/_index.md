@@ -70,7 +70,11 @@ communities:
       conversational AI value propositions, especially those with a potential global reach.
 full_image: /img/ovn-open-voice-network-blog-ai-voice-assistance_optimized.jpg     
 contact_us:
-  - heading:
+  - heading: Contact Us
+    imageUrl: /img/1x1-white-pixel.png
+    text: >-
+      Reach out at hello@openvoicenetwork.org or via the form below.
+- heading:
     imageUrl: /img/1x1-white-pixel.png
     text: >-
       Our Community participants come from all over the world -- Central and Western Europe, North
@@ -91,4 +95,3 @@ contact_us:
       Each OVN Community is moderated by one or more Community members, responsible for
       Community development, meeting planning, and coordination with other OVN activities.                                       
 ---
-Contact us at hello@openvoicenetwork.org or reach out via the form below.
