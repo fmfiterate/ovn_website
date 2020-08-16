@@ -1,22 +1,17 @@
 ---
 title: Communities
 image: /img/OVN-open-voice-network-artificial-intelligence-aivoice-global-standards_optimized.jpg
-heading: The Voice of Voice Practitioners Worldwide
-description: >-
-Open Voice Network Communities are open to everyone in the conversational AI community –
-developers, designers, strategists, linguists, researchers, marketers, and students.
-
-There’s no charge or membership fee to participate. All that’s required is a willingness to give of
-your time, a willingness to share your best thinking in a collaborative, open environment, and a
-commitment to a conversational AI future that is multi-platform, multi-assistant, multi-modal,
-multi-use, multi-device, user-centric, and standards-based.
 communities:
-  - heading: Vision
+  - heading: The Voice of Voice Practitioners Worldwide
     imageUrl: /img/1x1-white-pixel.png
     text: >-
-      The Open Voice Network (OVN) is dedicated to making voice assistance
-      worthy of user trust—especially for a future of voice assistance that will
-      be multi-platform, multi-device, multi-modal, and multi-use.
+    Open Voice Network Communities are open to everyone in the conversational AI community –
+    developers, designers, strategists, linguists, researchers, marketers, and students.
+
+    There’s no charge or membership fee to participate. All that’s required is a willingness to give of
+    your time, a willingness to share your best thinking in a collaborative, open environment, and a
+    commitment to a conversational AI future that is multi-platform, multi-assistant, multi-modal,
+    multi-use, multi-device, user-centric, and standards-based.
   - heading: Mission
     imageUrl: /img/1x1-white-pixel.png
     text: >-
