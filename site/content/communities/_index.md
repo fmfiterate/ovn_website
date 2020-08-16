@@ -11,7 +11,7 @@ communities:
       your time, a willingness to share your best thinking in a collaborative, open environment, and a
       commitment to a conversational AI future that is multi-platform, multi-assistant, multi-modal,
       multi-use, multi-device, user-centric, and standards-based.
-  - heading: The Open Voice Network Communities:
+  - heading: The Open Voice Network Communities
     imageUrl: /img/1x1-white-pixel.png
   - heading: Developer Community.
     imageUrl: /img/1x1-white-pixel.png
