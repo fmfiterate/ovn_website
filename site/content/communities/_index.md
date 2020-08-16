@@ -68,8 +68,7 @@ communities:
       Committee of the China Netcasting Services Association. Dedicated to the sharing of
       information and innovation regarding conversational AI standards development and
       conversational AI value propositions, especially those with a potential global reach.
-full_image: /img/ovn-open-voice-network-blog-ai-voice-assistance_optimized.jpg
-communities:    
+full_image: /img/ovn-open-voice-network-blog-ai-voice-assistance_optimized.jpg  
   - heading:
     imageUrl: /img/1x1-white-pixel.png
     text: >-
