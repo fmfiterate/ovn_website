@@ -1,6 +1,15 @@
 ---
-title: About
-image: /img/ovn-open-voice-network-about-ai-voice-assistance_optimized.jpg
+title: Community
+image: /img/ovn-open-voice-network-ai-voice-commerce-retail-artificial-intelligence_optimized.jpg
+heading: The Voice of Voice Practitioners Worldwide
+description: >-
+Open Voice Network Communities are open to everyone in the conversational AI community –
+developers, designers, strategists, linguists, researchers, marketers, and students.
+
+There’s no charge or membership fee to participate. All that’s required is a willingness to give of
+your time, a willingness to share your best thinking in a collaborative, open environment, and a
+commitment to a conversational AI future that is multi-platform, multi-assistant, multi-modal,
+multi-use, multi-device, user-centric, and standards-based.  
 about:
   - heading: Vision
     imageUrl: /img/1x1-white-pixel.png
