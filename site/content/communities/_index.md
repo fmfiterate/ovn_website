@@ -1,6 +1,6 @@
 ---
 title: Communities
-image: /img/OVN-open-voice-network-artificial-intelligence-aivoice-global-standards_optimized.jpg
+image: /img/ovn-open-voice-network-ai-voice-commerce-retail-artificial-intelligence_optimized.jpg
 communities:
   - heading: The Voice of Voice Practitioners Worldwide
     imageUrl: /img/1x1-white-pixel.png
