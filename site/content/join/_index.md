@@ -1,6 +1,6 @@
 ---
 title: Join us
-image: /img/ovn-open-voice-network-join-ai-voice-assistance_optimized.jpg
+image: /img/ovn-open-voice-network-join-ai-voice-assistance.jpg
 heading: Why Join The Open Voice Network?
 description: >-
   Open Voice Network members will help shape the future of AI-voice in
@@ -9,12 +9,12 @@ description: >-
   privacy.  
 intro:
   blurbs:
-    - image: /img/ovn-open-voice-network-consumer-trust.png
+    - image: /img/noun_group_2391984-01.png
       text: >-
         Senior executives of members will enjoy access to other AI-voice leaders
         and innovators with consumer-facing industries, along with best
         practices.
-    - image: /img/noun_search_2801993-01_blue.png
+    - image: /img/noun_search_2801993-01.png
       text: >-
         Members will enjoy first access to the Open Voice standards development
         and use case research by leading academic institutions and
