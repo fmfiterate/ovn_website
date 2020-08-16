@@ -1,6 +1,6 @@
 ---
 title: Join us
-image: /img/ovn-open-voice-network-join-ai-voice-assistance.jpg
+image: /img/ovn-open-voice-network-join-ai-voice-assistance_optimized.jpg
 heading: Why Join The Open Voice Network?
 description: >-
   Open Voice Network members will help shape the future of AI-voice in
@@ -9,12 +9,12 @@ description: >-
   privacy.  
 intro:
   blurbs:
-    - image: /img/noun_group_2391984-01.png
+    - image: /img/ovn-open-voice-network-consumer-trust.png
       text: >-
         Senior executives of members will enjoy access to other AI-voice leaders
         and innovators with consumer-facing industries, along with best
         practices.
-    - image: /img/noun_search_2801993-01.png
+    - image: /img/noun_search_2801993-01_blue.png
       text: >-
         Members will enjoy first access to the Open Voice standards development
         and use case research by leading academic institutions and
@@ -39,13 +39,13 @@ main:
   image1:
     alt: Open Voice
     image: >-
-      /img/ovn-open-voice-network-ai-voice-commerce-retail-artificial-intelligence.jpg
+      /img/ovn-open-voice-network-ai-voice-commerce-retail-artificial-intelligence_optimized.jpg
   image2:
     alt: Open Voice
-    image: /img/ovn-open-voice-network-join-assistance.jpg
+    image: /img/ovn-open-voice-network-join-assistance_optimized.jpg
   image3:
     alt: Open Voice
-    image: /img/open-voice-network-the-importance-of-voice-and-data-privacy.jpg
+    image: /img/open-voice-network-the-importance-of-voice-and-data-privacy_optimized.jpg
 testimonials:
   - author: >-
       Kees Jacobs | Vice-President for Global Consumer Products & Retail,
@@ -57,7 +57,7 @@ testimonials:
       But it is also clear that organizations should focus on gaining consumer
       trust. The Open Voice Network is the right initiative to help companies
       doing the right things, serving consumers in the right way.
-full_image: /img/ovn-open-voice-network-blog-ai-voice-assistance.jpg
+full_image: /img/ovn-open-voice-network-blog-ai-voice-assistance_optimized.jpg
 pricing:
   heading: Open Voice Network Membership
   description: "Membership is open worldwide to consumer-facing enterprises and public entities, as well as those that advise, represent, or study such enterprises and entities. \_"
